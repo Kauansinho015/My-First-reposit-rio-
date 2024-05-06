@@ -1,0 +1,44 @@
+body{
+	
+	background-color: black;
+	background:linear-gradient(blue,rgb(95,2,174));
+	color:white;
+	
+}
+
+div{
+	
+	background-color: black;
+	height: 300px;
+	width: 300px;
+	border: ;
+	border-radius: 2px;
+	transform: translatex(-50%,-50%,50%);
+	border-radius:20px;
+	color:white;
+}
+
+label{
+	
+	color:white;
+	
+}
+button{
+	
+	background:linear-gradient(black,rgb(24,0,73),black);
+	height:50px;
+	width: 100;
+	text-aling:center;
+	color:white;
+	border-radius:15px;
+	color:white;
+}
+
+form{
+	text-aling:center;
+	color:white;
+}
+
+select{
+	color:white;
+}
